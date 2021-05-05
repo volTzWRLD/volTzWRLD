@@ -7,4 +7,4 @@
 
 
 ### In the future, i wll launch a script for plataform FiveM, along with creation of my store.
-# So, news coming soon..
+# 💥 So, news coming soon..
