@@ -1,3 +1,4 @@
+<hr>
 <h1> 👋 Hi, I’m VolTz </h1>
 <br>
 <hr>
