@@ -36,7 +36,7 @@
 <br>
 <ul>
   <li><strong><a href="https://github.com/volTzWRLD/Page-Project-Capture">Page-Project-Capture</a>
-  <li><strong><a href="https://github.com/volTzWRLD/empvoltzroupas">EMP-VOLTZROUPAS</a>
+  <li><strong><a href="https://github.com/volTzWRLD/empvoltzroupas">Emp-VoltzRoupas</a>
 </strong>
 </li>
 </ul>
