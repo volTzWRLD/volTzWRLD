@@ -1,46 +1,33 @@
-
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px;> Hi, I’m VolTz</h1>
-<img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width= 1200px>
-<hr>
-
-<h3> 🐧 About Me </h3>
+<div class="description">
+    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m VolTz</h1>
+    <a href="https://github.com/volTzWRLD">
+      <img src="https://github-readme-stats.vercel.app/api?username=volTzWRLD&show_icons=true&theme=dark" height=180px>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volTzWRLD&layout=compact&theme=dark" alt="top language" height=180px>
+    </a>
+</div>
 <br>
-<ul>
-  <li>My name is VolTzz and have 16 years.</li>
-  <li>My hobby is coding and learning new things</li>
-  <li>To contact me, call me by discord: voltzz#1762</li>
-</ul>
-<br>
-<hr>
 
-<h3> 💻 Languages used in everyday life </h3>
+<div class="languages" style="display: inline_block">
+  <h2>📚Languages</h2>
+  <a href="https://github.com/volTzWRLD">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   </a>
+</div>
 <br>
-<ul>
-  <li><img            src=https://camo.githubusercontent.com/a7021ddf978285138826e97230d05bdace31c9f951a50602bcace8e053256832/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c75612d3130313062353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465></li>
-  <li><img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></li>
-  <li><img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white</li>
-  <li><img src=https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b></li>
- </ul>
- <br>
- <hr>
 
- <h3> 📚 Language I want to learn in the future</h3>
- <br>
- <ul>
-  <li><img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white></li>
-  <li><img src=https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white></li>
-</ul>
-<br>
-<hr>
-<h3> 📋 My Projects</h3>
-<br>
-<ul>
-  <li><strong><a href="https://github.com/volTzWRLD/Page-Project-Capture">Page-Project-Capture</a>
-  <li><strong><a href="https://github.com/volTzWRLD/empvoltzroupas">Emp-VoltzRoupas</a>
-</strong>
-</li>
-</ul>
-<br>
-<hr>
+<div class="social networks" style="display: inline_block">
+  <img align=right   src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" height= 130px>
+  <h2>🔍 Social Networks</h2>
+ 
+  <a href="discord.gg/qarQmFYFnz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><a>
+  <a href="https://www.youtube.com/channel/UC_4UDgig6XNWkmVdGjFX8Rg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.twitch.tv/voltzwrld"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/lukgammer.amaral?si=e4f33a21874b49b6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
-
+<div class="snake game">
+  <img align=left src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"
+</div>
