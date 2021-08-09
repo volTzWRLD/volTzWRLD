@@ -1,4 +1,4 @@
-<div class="description">
+<div class="description" style="display: inline_block">
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m VolTz</h1>
     <a href="https://github.com/volTzWRLD">
       <img src="https://github-readme-stats.vercel.app/api?username=volTzWRLD&show_icons=true&theme=dark" height=180px>
