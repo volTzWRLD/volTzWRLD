@@ -29,6 +29,6 @@
   <a href="https://open.spotify.com/user/lukgammer.amaral?si=e4f33a21874b49b6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 <div class="snake game">
-   <a href="https://github/volTzWRLD">
+   <a href="https://github.com/volTzWRLD">
   <img align=left src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"</a>
 </div>
