@@ -8,7 +8,7 @@
 <br>
 
 <div class="languages" style="display: inline_block">
-  <h2>📚Languages</h2>
+  <h2>📚Tools I use</h2>
   <a href="https://github.com/volTzWRLD">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
