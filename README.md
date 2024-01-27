@@ -1,5 +1,12 @@
 <div class="description" style="display: inline_block">
-    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m VolTz</h1>
+    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m VolTz</h1> 
+    <ul>
+        <li>I am 18 years old and currently studying Information Systems at the State University of Campinas</li>
+        <li>I aim to be a Full Stack developer, but with an emphasis on Back-End</li>
+        <li>
+            For professional contact and a more detailed description of my professional capabilities:
+        </li>
+    </ul>
     <a href="https://github.com/volTzWRLD">
      <img src="https://github-readme-stats.vercel.app/api?username=volTzWRLD&show_icons=true&theme=dracula" alt="nota" height= 290px width=50%>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltzWRLD&layout=compact&theme=dracula" alt="top language" height=290px width=35%>
@@ -28,8 +35,3 @@
   <a href="https://www.youtube.com/channel/UC_4UDgig6XNWkmVdGjFX8Rg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.twitch.tv/voltzwrld"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://open.spotify.com/user/lukgammer.amaral?si=e4f33a21874b49b6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-
-<div class="snake game">
-   <a href="https://github.com/volTzWRLD">
-  <img align=left src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"</a>
-</div>
