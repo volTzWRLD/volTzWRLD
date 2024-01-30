@@ -1,5 +1,5 @@
 <div class="description" style="display: inline_block">
-    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m VolTz</h1> 
+    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Lucas</h1> 
     <ul>
         <li>I am 18 years old and currently studying Information Systems at the State University of Campinas - UNICAMP </li>
         <li>I aim to be a Full Stack developer, but with an emphasis on Back-End</li>
